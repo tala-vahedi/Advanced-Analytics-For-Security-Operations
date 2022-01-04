@@ -1,0 +1,116 @@
+{
+    "---------------": {
+        "IP": "---------------",
+        "Port #": "-------",
+        "Port Name": "--------------------",
+        "Protocol": "--------"
+    },
+    "104.16.248.249": {
+        "IP": "104.16.248.249",
+        "Port #": "443",
+        "Port Name": "http protocol over TLS/SSL",
+        "Protocol": "TCP"
+    },
+    "172.253.122.188": {
+        "IP": "172.253.122.188",
+        "Port #": "5228",
+        "Port Name": "HP Virtual Room Service",
+        "Protocol": "TCP"
+    },
+    "192.168.1.1": {
+        "IP": "192.168.1.1",
+        "Port #": "EPH",
+        "Port Name": "EPH",
+        "Protocol": "TCP"
+    },
+    "192.168.1.255": {
+        "IP": "192.168.1.255",
+        "Port #": "17500",
+        "Port Name": "Dropbox LanSync Discovery",
+        "Protocol": "BROADCAST"
+    },
+    "192.168.1.3": {
+        "IP": "192.168.1.3",
+        "Port #": "EPH",
+        "Port Name": "EPH",
+        "Protocol": "TCP"
+    },
+    "192.168.1.5": {
+        "IP": "192.168.1.5",
+        "Port #": "EPH",
+        "Port Name": "EPH",
+        "Protocol": "TCP"
+    },
+    "192.168.1.7": {
+        "IP": "192.168.1.7",
+        "Port #": "80",
+        "Port Name": "World Wide Web HTTP",
+        "Protocol": "TCP"
+    },
+    "239.255.255.250": {
+        "IP": "239.255.255.250",
+        "Port #": "1900",
+        "Port Name": "SSDP",
+        "Protocol": "UDP"
+    },
+    "2600:1402:9800:381::11a6": {
+        "IP": "2600:1402:9800:381::11a6",
+        "Port #": "443",
+        "Port Name": "http protocol over TLS/SSL",
+        "Protocol": "TCP"
+    },
+    "2603:6080:ce03:b91a:232:d5be:93a8:d909": {
+        "IP": "2603:6080:ce03:b91a:232:d5be:93a8:d909",
+        "Port #": "EPH",
+        "Port Name": "EPH",
+        "Protocol": "TCP"
+    },
+    "34.202.15.9": {
+        "IP": "34.202.15.9",
+        "Port #": "443",
+        "Port Name": "http protocol over TLS/SSL",
+        "Protocol": "TCP"
+    },
+    "52.25.57.149": {
+        "IP": "52.25.57.149",
+        "Port #": "1194",
+        "Port Name": "OpenVPN",
+        "Protocol": "UDP"
+    },
+    "52.33.203.93": {
+        "IP": "52.33.203.93",
+        "Port #": "443",
+        "Port Name": "http protocol over TLS/SSL",
+        "Protocol": "TCP"
+    },
+    "fe80::3649:5bff:fecd:fa1a": {
+        "IP": "fe80::3649:5bff:fecd:fa1a",
+        "Port #": "NA",
+        "Port Name": "ICMP",
+        "Protocol": null
+    },
+    "fe80::6da2:9d1a:be89:84e5": {
+        "IP": "fe80::6da2:9d1a:be89:84e5",
+        "Port #": "NA",
+        "Port Name": "HOPOPT",
+        "Protocol": null
+    },
+    "fe80::e5d9:b828:1b2e:5335": {
+        "IP": "fe80::e5d9:b828:1b2e:5335",
+        "Port #": "NA",
+        "Port Name": "HOPOPT",
+        "Protocol": null
+    },
+    "ff02::1": {
+        "IP": "ff02::1",
+        "Port #": "NA",
+        "Port Name": "ICMP",
+        "Protocol": null
+    },
+    "ff02::16": {
+        "IP": "ff02::16",
+        "Port #": "NA",
+        "Port Name": "HOPOPT",
+        "Protocol": null
+    }
+}

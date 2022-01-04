@@ -1,0 +1,200 @@
+{
+    "192.168.1.5 -> 192.168.1.3": {
+        "Connection": "192.168.1.5 -> 192.168.1.3",
+        "SRC-MAC": "E0D55EE16EB3",
+        "DST-MAC": "3C528244C1EB",
+        "Ports": "EPH     EPH",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    },
+    "192.168.1.3 -> 192.168.1.5": {
+        "Connection": "192.168.1.3 -> 192.168.1.5",
+        "SRC-MAC": "3C528244C1EB",
+        "DST-MAC": "E0D55EE16EB3",
+        "Ports": "EPH     EPH",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    },
+    "192.168.1.3 -> 52.25.57.149": {
+        "Connection": "192.168.1.3 -> 52.25.57.149",
+        "SRC-MAC": "3C528244C1EB",
+        "DST-MAC": "34495BCDFA1A",
+        "Ports": "EPH     1194",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "United States"
+    },
+    "192.168.1.3 -> 239.255.255.250": {
+        "Connection": "192.168.1.3 -> 239.255.255.250",
+        "SRC-MAC": "3C528244C1EB",
+        "DST-MAC": "01005E7FFFFA",
+        "Ports": "EPH     1900",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "MULTICAST"
+    },
+    "192.168.1.3 -> 192.168.1.1": {
+        "Connection": "192.168.1.3 -> 192.168.1.1",
+        "SRC-MAC": "3C528244C1EB",
+        "DST-MAC": "34495BCDFA1A",
+        "Ports": "EPH     53",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    },
+    "192.168.1.3 -> 192.168.1.7": {
+        "Connection": "192.168.1.3 -> 192.168.1.7",
+        "SRC-MAC": "3C528244C1EB",
+        "DST-MAC": "389D92A838E5",
+        "Ports": "EPH     80",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    },
+    "192.168.1.7 -> 192.168.1.3": {
+        "Connection": "192.168.1.7 -> 192.168.1.3",
+        "SRC-MAC": "389D92A838E5",
+        "DST-MAC": "3C528244C1EB",
+        "Ports": "80      EPH",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    },
+    "fe80::3649:5bff:fecd:fa1a -> ff02::1": {
+        "Connection": "fe80::3649:5bff:fecd:fa1a -> ff02::1",
+        "SRC-MAC": "34495BCDFA1A",
+        "DST-MAC": "333300000001",
+        "Ports": "NA      NA",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "MULTICAST"
+    },
+    "fe80::e5d9:b828:1b2e:5335 -> ff02::1": {
+        "Connection": "fe80::e5d9:b828:1b2e:5335 -> ff02::1",
+        "SRC-MAC": "DCA632959D61",
+        "DST-MAC": "333300000001",
+        "Ports": "NA      NA",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "MULTICAST"
+    },
+    "fe80::6da2:9d1a:be89:84e5 -> ff02::16": {
+        "Connection": "fe80::6da2:9d1a:be89:84e5 -> ff02::16",
+        "SRC-MAC": "E0D55EE16EB3",
+        "DST-MAC": "333300000016",
+        "Ports": "NA      NA",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "MULTICAST"
+    },
+    "fe80::e5d9:b828:1b2e:5335 -> ff02::16": {
+        "Connection": "fe80::e5d9:b828:1b2e:5335 -> ff02::16",
+        "SRC-MAC": "DCA632959D61",
+        "DST-MAC": "333300000016",
+        "Ports": "NA      NA",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "MULTICAST"
+    },
+    "192.168.1.5 -> 52.33.203.93": {
+        "Connection": "192.168.1.5 -> 52.33.203.93",
+        "SRC-MAC": "E0D55EE16EB3",
+        "DST-MAC": "34495BCDFA1A",
+        "Ports": "EPH     443",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "United States"
+    },
+    "52.33.203.93 -> 192.168.1.5": {
+        "Connection": "52.33.203.93 -> 192.168.1.5",
+        "SRC-MAC": "34495BCDFA1A",
+        "DST-MAC": "E0D55EE16EB3",
+        "Ports": "443     EPH",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "United States",
+        "DST-Country": "LOCAL"
+    },
+    "192.168.1.3 -> 34.202.15.9": {
+        "Connection": "192.168.1.3 -> 34.202.15.9",
+        "SRC-MAC": "3C528244C1EB",
+        "DST-MAC": "34495BCDFA1A",
+        "Ports": "EPH     443",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "United States"
+    },
+    "192.168.1.3 -> 172.253.122.188": {
+        "Connection": "192.168.1.3 -> 172.253.122.188",
+        "SRC-MAC": "3C528244C1EB",
+        "DST-MAC": "34495BCDFA1A",
+        "Ports": "EPH     5228",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    },
+    "192.168.1.3 -> 192.168.1.255": {
+        "Connection": "192.168.1.3 -> 192.168.1.255",
+        "SRC-MAC": "3C528244C1EB",
+        "DST-MAC": "FFFFFFFFFFFF",
+        "Ports": "17500   17500",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    },
+    "fe80::6da2:9d1a:be89:84e5 -> fe80::3649:5bff:fecd:fa1a": {
+        "Connection": "fe80::6da2:9d1a:be89:84e5 -> fe80::3649:5bff:fecd:fa1a",
+        "SRC-MAC": "E0D55EE16EB3",
+        "DST-MAC": "34495BCDFA1A",
+        "Ports": "NA      NA",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    },
+    "fe80::3649:5bff:fecd:fa1a -> fe80::6da2:9d1a:be89:84e5": {
+        "Connection": "fe80::3649:5bff:fecd:fa1a -> fe80::6da2:9d1a:be89:84e5",
+        "SRC-MAC": "34495BCDFA1A",
+        "DST-MAC": "E0D55EE16EB3",
+        "Ports": "NA      NA",
+        "WEEKEND": "False",
+        "DAY-TIME": "True",
+        "NIGHT-TIME": "False",
+        "SRC-Country": "LOCAL",
+        "DST-Country": "LOCAL"
+    }
+}

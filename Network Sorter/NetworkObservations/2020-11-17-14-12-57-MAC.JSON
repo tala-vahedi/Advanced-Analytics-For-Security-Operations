@@ -1,0 +1,56 @@
+{
+    "E0D55EE16EB3": {
+        "MAC-ADDR": "E0D55EE16EB3",
+        "IP-ADDRESS": "192.168.1.5",
+        "MFG": "TW: GIGA-BYTE TECHNOLOGY CO. LTD.",
+        "IoT-Category": null
+    },
+    "3C528244C1EB": {
+        "MAC-ADDR": "3C528244C1EB",
+        "IP-ADDRESS": "192.168.1.3",
+        "MFG": "US: Hewlett Packard",
+        "IoT-Category": null
+    },
+    "34495BCDFA1A": {
+        "MAC-ADDR": "34495BCDFA1A",
+        "IP-ADDRESS": "104.16.248.249",
+        "MFG": "Unknown",
+        "IoT-Category": null
+    },
+    "01005E7FFFFA": {
+        "MAC-ADDR": "01005E7FFFFA",
+        "IP-ADDRESS": "239.255.255.250",
+        "MFG": "Unknown",
+        "IoT-Category": null
+    },
+    "389D92A838E5": {
+        "MAC-ADDR": "389D92A838E5",
+        "IP-ADDRESS": "192.168.1.7",
+        "MFG": "Unknown",
+        "IoT-Category": null
+    },
+    "333300000001": {
+        "MAC-ADDR": "333300000001",
+        "IP-ADDRESS": "ff02::1",
+        "MFG": "Unknown",
+        "IoT-Category": null
+    },
+    "DCA632959D61": {
+        "MAC-ADDR": "DCA632959D61",
+        "IP-ADDRESS": "fe80::e5d9:b828:1b2e:5335",
+        "MFG": "Unknown",
+        "IoT-Category": null
+    },
+    "333300000016": {
+        "MAC-ADDR": "333300000016",
+        "IP-ADDRESS": "ff02::16",
+        "MFG": "Unknown",
+        "IoT-Category": null
+    },
+    "FFFFFFFFFFFF": {
+        "MAC-ADDR": "FFFFFFFFFFFF",
+        "IP-ADDRESS": "192.168.1.255",
+        "MFG": "Unknown",
+        "IoT-Category": null
+    }
+}
